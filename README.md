@@ -9,6 +9,8 @@ This project analyzes customer data to identify **patterns and factors associate
 An interactive **Power BI Customer Churn Dashboard** was developed to help stakeholders monitor churn, understand customer behavior, identify high-risk customer segments, and make data-driven retention decisions.
 
 ---
+## Datasets Used
+- <a href=
 
 ## 🎯 Project Objectives
 
@@ -45,8 +47,8 @@ The analysis seeks to answer important business questions such as:
 
 | Tool                | Purpose                                                   |
 | ------------------- | --------------------------------------------------------- |
-| **Microsoft Excel** | Data inspection, cleaning and preliminary analysis        |
-| **SQL Server**      | Data cleaning, transformation and customer churn analysis |
+| **Microsoft Excel** | Data inspection, cleaning, and preliminary analysis        |
+| **SQL Server**      | Data cleaning, transformation, and customer churn analysis |
 | **Power BI**        | Interactive dashboard and data visualization              |
 | **DAX**             | Calculated measures and KPIs                              |
 | **Git & GitHub**    | Version control and project portfolio management          |
@@ -153,7 +155,7 @@ Examples of the analysis include:
 * Churn by demographic group
 * Churn by tenure
 * Churn by product/service
-* Comparison between Tenure and Churned rate
+* Comparison between Tenure and Churn rate
 
 Example:
 
@@ -225,15 +227,15 @@ Identify customers displaying characteristics associated with high churn and dev
 
 ### 2. Improve Early Customer Experience
 
-Customers with shorter tenure may require stronger onboarding, engagement and customer support.
+Customers with shorter tenure may require stronger onboarding, engagement, and customer support.
 
 ### 3. Investigate High-Churn Services
 
-Products or services with unusually high churn should be investigated to identify potential pricing, quality or customer-experience issues.
+Products or services with unusually high churn should be investigated to identify potential pricing, quality, or customer-experience issues.
 
 ### 4. Develop Customer Retention Programs
 
-Create personalized offers, loyalty programs and incentives for valuable customers who are at risk of leaving.
+Create personalized offers, loyalty programs, and incentives for valuable customers who are at risk of leaving.
 
 ### 5. Monitor Churn Continuously
 
@@ -265,7 +267,7 @@ This project demonstrates practical experience in:
 
 The **Customer Churn Dashboard Analytics** project demonstrates how customer data can be transformed into meaningful business intelligence.
 
-By combining **SQL, Excel and Power BI**, the project provides a structured approach to understanding customer churn, identifying high-risk customer segments, and developing strategies that can support improved customer retention.
+By combining **SQL, Excel, and Power BI**, the project provides a structured approach to understanding customer churn, identifying high-risk customer segments, and developing strategies that can support improved customer retention.
 
 ---
 
