@@ -19,7 +19,7 @@ The main objectives of this project are to:
 * Analyze the overall customer churn rate.
 * Identify customer segments with high churn rates.
 * Analyze churn across different customer demographics.
-* Examine the relationship between customer tenure and churn.
+* Examine the relationship between customer tenure and churn rate.
 * Analyze churn based on products and services.
 * Identify factors associated with customer attrition.
 * Create an interactive Power BI dashboard for monitoring churn.
