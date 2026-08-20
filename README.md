@@ -138,7 +138,7 @@ The Power BI dashboard provides an interactive view of customer churn and allows
 
 ### Dashboard Preview
 
-![Customer Churn Dashboard](Dashboard/dashboard_overview.png)
+- <a href="https://github.com/IykeTheAnalyst/Customer-Churn-Dashboard-Analytics/blob/main/Costumer%20Churn%20Dashboard%20Analysis.pbix">Dashboard</a>
 
 ---
 
@@ -151,10 +151,10 @@ Examples of the analysis include:
 * Total number of customers
 * Number of churned customers
 * Overall churn rate
-* Churn by customer segment
-* Churn by demographic group
+* Churn by Payment Method
+* Churn by Senior Citizen
 * Churn by tenure
-* Churn by product/service
+* Churn by Internet Service
 * Comparison between Tenure and Churn rate
 
 Example:
