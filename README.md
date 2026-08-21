@@ -1,6 +1,6 @@
 # Customer Churn Dashboard Analytics
 
-## 📊 Project Overview
+## Project Overview
 
 Customer churn is a major challenge for businesses because losing existing customers can reduce revenue, customer lifetime value, and long-term growth.
 
@@ -12,7 +12,7 @@ An interactive **Power BI Customer Churn Dashboard** was developed to help stake
 ## Datasets Used
 - <a href="https://github.com/IykeTheAnalyst/Customer-Churn-Dashboard-Analytics/blob/main/Customer%20Churn%20Dataset.xlsx">Dataset</a>
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this project are to:
 
@@ -27,7 +27,7 @@ The main objectives of this project are to:
 
 ---
 
-## 💼 Business Problem
+## Business Problem
 
 The company is experiencing customer churn and needs to understand **why customers are leaving**.
 
@@ -43,7 +43,7 @@ The analysis seeks to answer important business questions such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool                | Purpose                                                   |
 | ------------------- | --------------------------------------------------------- |
@@ -55,7 +55,7 @@ The analysis seeks to answer important business questions such as:
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 The project followed the following data analytics workflow:
 
@@ -83,7 +83,7 @@ Recommendations
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Customer-Churn-Dashboard-Analytics/
@@ -119,7 +119,7 @@ Customer-Churn-Dashboard-Analytics/
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 The Power BI dashboard provides an interactive view of customer churn and allows users to explore customer behavior across different dimensions.
 
@@ -142,7 +142,7 @@ The Power BI dashboard provides an interactive view of customer churn and allows
 
 ---
 
-## 🔎 SQL Analysis
+## SQL Analysis
 
 SQL was used to analyze the customer dataset and generate key metrics.
 
@@ -176,7 +176,7 @@ FROM Customer_Churn;
 
 ---
 
-## 📈 Key Performance Indicators
+## Key Performance Indicators
 
 The dashboard focuses on important customer retention KPIs, including:
 
@@ -203,7 +203,7 @@ Churned Customers / Total Customers × 100
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 The analysis is designed to identify:
 
@@ -217,7 +217,7 @@ The analysis is designed to identify:
 
 ---
 
-## 🎯 Business Recommendations
+## Business Recommendations
 
 Based on the churn analysis, the following strategies can be considered:
 
@@ -243,7 +243,7 @@ Use the Power BI dashboard as a monitoring tool to track churn trends and identi
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -263,7 +263,7 @@ This project demonstrates practical experience in:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 The **Customer Churn Dashboard Analytics** project demonstrates how customer data can be transformed into meaningful business intelligence.
 
@@ -271,7 +271,7 @@ By combining **SQL, Excel, and Power BI**, the project provides a structured app
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Emmanuel Osuagwu**
 
