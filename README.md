@@ -171,7 +171,7 @@ SELECT
         / COUNT(*)
         AS DECIMAL(10,2)
     ) AS Churn_Rate
-FROM Customer_Churn;
+FROM [Churn_Table].[dbo].[Customer Churn Datasets];
 ```
 
 ---
